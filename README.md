@@ -32,7 +32,7 @@ The code is designed to be **clean, reusable, and easy to understand** for devel
 ## Preview
 | Single Expand Mode         | Multi Expand Mode          |
 |----------------------------|----------------------------|
-| ![Single Expand Mode](./assets/single_expand.gif) | ![Multi Expand Mode](./assets/multi_expand.gif) |
+| ![Single Expand Mode](./assets/single_expand.mov) | ![Multi Expand Mode](./assets/multi_expand.MOV) |
 
 ## Usage
 1. Clone the repository:  
