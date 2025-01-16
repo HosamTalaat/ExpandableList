@@ -32,7 +32,7 @@ The code is designed to be **clean, reusable, and easy to understand** for devel
 ## Preview
 | Single Expand Mode         | Multi Expand Mode          |
 |----------------------------|----------------------------|
-| <img src="https://github.com/user-attachments/assets/7e1b2893-3ff4-4468-8ca2-16cb6778505f" width="300"/> | <img src="https://github.com/user-attachments/assets/b000f9f8-d5b0-4f51-a946-5c239dec6f19" width="300"/> |
+| <img src="https://github.com/user-attachments/assets/b000f9f8-d5b0-4f51-a946-5c239dec6f19" width="300"/> | <img src="https://github.com/user-attachments/assets/7e1b2893-3ff4-4468-8ca2-16cb6778505f" width="300"/> |
 
 ## Usage
 1. Clone the repository:  
