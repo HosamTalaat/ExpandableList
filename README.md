@@ -32,7 +32,7 @@ The code is designed to be **clean, reusable, and easy to understand** for devel
 ## Preview
 | Single Expand Mode         | Multi Expand Mode          |
 |----------------------------|----------------------------|
-|![Single Expand Mode](./assets/single_expand.png) | ![Multi Expand Mode](./assets/multi_expand.png) |
+|![Single Expand Mode](./Assets/single_expand.png) | ![Multi Expand Mode](./Assets/multi_expand.png) |
 ## Usage
 1. Clone the repository:  
    ```bash
